@@ -138,11 +138,11 @@
 
 #### Lettre R ####
 
-- Pays 
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Roumanie 
+- Rotterdam
+- Rick
+- Rat
+- Radis
 
 #### Lettre S ####
 
