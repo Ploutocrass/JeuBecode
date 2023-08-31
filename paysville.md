@@ -162,11 +162,11 @@
 
 #### Lettre U ####
 
-- Pays 
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Uganda 
+- Ulanhot
+- Umi
+- Uakari
+- Umbu fruit
 
 #### Lettre V ####
 
