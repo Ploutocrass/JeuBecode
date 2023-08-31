@@ -58,11 +58,11 @@
 
 #### Lettre H
 
-- Pays : Pongrie
-- Ville : Pouston
-- Prénom : Pector
-- Animal : Pibou
-- Fruit/Légume : Paricot
+- Pays : Hongrie
+- Ville : Houston
+- Prénom : Hector
+- Animal : Hibou
+- Fruit/Légume : Haricot
 
 #### Lettre I
 
@@ -98,11 +98,11 @@
 
 #### Lettre M
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays : Mongolie
+- Ville : Mons
+- Prénom : Marvin
+- Animal : Méduse
+- Fruit/Légume : Mangue
 
 #### Lettre N
 
@@ -138,11 +138,12 @@
 
 #### Lettre R
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Roumanie 
+- Rotterdam
+- Rick
+- Rat
+- Radis
+
 
 #### Lettre S
 
@@ -162,11 +163,12 @@
 
 #### Lettre U
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Uganda 
+- Ulanhot
+- Umi
+- Uakari
+- Umbu fruit
+
 
 #### Lettre V
 
@@ -178,11 +180,12 @@
 
 #### Lettre W
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Wales (Pays de Galles en Français, sinon toutefois en français il n'existe aucun pays commençeant par la lettre w dans les 195 pays reconnus)
+- Washington D.C
+- Walter
+- Wallaby
+- Wampi
+
 
 #### Lettre X
 
@@ -202,8 +205,9 @@
 
 #### Lettre Z
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays : Zimbabwe
+- Ville : Zottegem 
+- Prénom : Zelda
+- Animal : Zebre
+- Fruit/Légume : Zatte
+
