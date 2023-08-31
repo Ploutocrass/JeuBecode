@@ -58,11 +58,11 @@
 
 #### Lettre  H ####
 
-- Pays : Pongrie
-- Ville : Pouston
-- Prénom : Pector
-- Animal : Pibou
-- Fruit/Légume : Paricot
+- Pays : Hongrie
+- Ville : Houston
+- Prénom : Hector
+- Animal : Hibou
+- Fruit/Légume : Haricot
 
 #### Lettre I ####
 
