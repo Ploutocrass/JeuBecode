@@ -147,11 +147,11 @@
 
 #### Lettre S
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays suisse
+- Ville strasbourg
+- Prénom susane
+- Animal serpant
+- Fruit/Légume soja
 
 #### Lettre T
 
