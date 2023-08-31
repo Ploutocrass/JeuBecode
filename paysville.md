@@ -122,11 +122,11 @@
 
 #### Lettre P ####
 
-- Pays 
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays : Portugal 
+- Ville : Porto
+- Prénom : Pierre
+- Animal : Perroquet
+- Fruit/Légume : Pomme
 
 #### Lettre Q ####
 
