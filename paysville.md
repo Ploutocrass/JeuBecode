@@ -1,62 +1,62 @@
 <h2 style="text-align : center">PAYS VILLE BECODE</h2>
 
-#### Lettre A ####
+#### Lettre A
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre B ####
+#### Lettre B
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre C ####
+#### Lettre C
 
-- Pays 
+- Pays : Corée du sud
+- Ville : Charleroi
+- Prénom : Chantal
+- Animal : Chat
+- Fruit/Légume : Concombre
+
+#### Lettre D
+
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre D ####
+#### Lettre E
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre E ####
+#### Lettre F
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre F ####
+#### Lettre G
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre G ####
-
-- Pays 
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
-
-#### Lettre  H ####
+#### Lettre H
 
 - Pays : Pongrie
 - Ville : Pouston
@@ -64,144 +64,145 @@
 - Animal : Pibou
 - Fruit/Légume : Paricot
 
-#### Lettre I ####
+#### Lettre I
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre J ####
+#### Lettre J
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre K ####
+#### Lettre K
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre L ####
+#### Lettre L
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre M ####
+#### Lettre M
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre N ####
+#### Lettre N
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre O ####
+#### Lettre O
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre P ####
+#### Lettre P
 
-- Pays : Portugal 
+- Pays : Portugal
 - Ville : Porto
 - Prénom : Pierre
 - Animal : Perroquet
 - Fruit/Légume : Pomme
 
-#### Lettre Q ####
+#### Lettre Q
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre R ####
+#### Lettre R
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre S ####
+#### Lettre S
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre T ####
+#### Lettre T
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre U ####
+#### Lettre U
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre V ####
+#### Lettre V
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/L
-#### Lettre W ####
 
-- Pays 
+#### Lettre W
+
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre X ####
+#### Lettre X
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre Y ####
+#### Lettre Y
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
 - Fruit/Légume
 
-#### Lettre Z ####
+#### Lettre Z
 
-- Pays 
+- Pays
 - Ville
 - Prénom
 - Animal
