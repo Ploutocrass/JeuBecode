@@ -189,11 +189,11 @@
 
 #### Lettre X
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Instrument de musique : xylophone
+- Ville : Xambes (commune du Sud-Ouest de la France, située dans le département de la Charente)
+- Prénom : Xavier
+- Animal : xérus (rongeur d'Afrique voisin de l'écureuil, et appelé usuellement rat palmiste)
+- Fruit/Légume : Ximenia (pas strictement un fruit, mais un arbuste ayant des fruits rouges orangés)
 
 #### Lettre Y
 
