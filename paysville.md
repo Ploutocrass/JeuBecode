@@ -10,11 +10,11 @@
 
 #### Lettre B
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays : Belgique
+- Ville : Bruxelles
+- Prénom : Basile
+- Animal : Baleine
+- Fruit/Légume : Banane
 
 #### Lettre C
 
