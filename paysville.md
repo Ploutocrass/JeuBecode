@@ -2,11 +2,11 @@
 
 #### Lettre A
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays : Angleterre
+- Ville: Aalst
+- Prénom: Annette
+- Animal: Agneau
+- Fruit/Légume: Artichaut
 
 #### Lettre B
 
