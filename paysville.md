@@ -58,11 +58,11 @@
 
 #### Lettre  H ####
 
-- Pays 
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays : Hongrie
+- Ville : Houston
+- Prénom : Hector
+- Animal : Hibou
+- Fruit/Légume : Haricot
 
 #### Lettre I ####
 
