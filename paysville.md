@@ -177,11 +177,11 @@
 - Fruit/L
 #### Lettre W ####
 
-- Pays 
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Wales (Pays de Galles en Français, sinon toutefois en français il n'existe aucun pays commençeant par la lettre w dans les 195 pays reconnus)
+- Washington D.C
+- Walter
+- Wallaby
+- Wampi
 
 #### Lettre X ####
 
