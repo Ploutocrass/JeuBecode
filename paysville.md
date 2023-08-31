@@ -34,11 +34,11 @@
 
 #### Lettre E
 
-- Pays
-- Ville
-- Prénom
-- Animal
-- Fruit/Légume
+- Pays Espagne
+- Ville Enghien   
+- Prénom Elodie
+- Animal Elephant
+- Fruit/Légume Endive
 
 #### Lettre F
 
